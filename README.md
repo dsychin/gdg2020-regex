@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+# GDG Brunei DevFest 2020 Talk: Regular Expression
 
-You can use the [editor on GitHub](https://github.com/dsychin/gdg2020-regex/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+![Regular Expression Talk by Desmond Chin](./cover.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Learn how to use regular expression (RegEx) to create search patterns and how you can use it to level up your development skills.
 
-### Markdown
+This talk is suitable for both beginners and intermediate levels! Attend GDG Brunei DevFest 2020 in-person at 📍Laksamana College of Business or 💻online on 18th Oct 2020. Catch Desmond at 11.15am-12pm UTC+8⏱
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Video Recording
 
-```markdown
-Syntax highlighted code block
+Link to the video recording will be added here once available.
 
-# Header 1
-## Header 2
-### Header 3
+## Presentation Slides
 
-- Bulleted
-- List
+[Click here to download](#)
 
-1. Numbered
-2. List
+## Resources
 
-**Bold** and _Italic_ and `Code` text
+### Tutorials
 
-[Link](url) and ![Image](src)
-```
+1. https://regexone.com
+1. https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Videos
 
-### Jekyll Themes
+1. [Learn Regular Expressions (Regex) - Crash Course for Beginners](https://www.youtube.com/watch?v=ZfQFUJhPqMM)
+1. [Learn Regular Expressions In 20 Minutes](https://www.youtube.com/watch?v=rhzKDrUiJVk)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dsychin/gdg2020-regex/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Regex Tester
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. https://regexr.com
+1. https://regex101.com
