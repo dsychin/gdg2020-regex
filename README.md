@@ -12,7 +12,7 @@ Link to the video recording will be added here once available.
 
 ## Presentation Slides
 
-[Click here to download](#)
+[Click here to download](./Regex_Presentation.pdf)
 
 ## Resources
 
