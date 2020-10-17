@@ -18,8 +18,8 @@ Link to the video recording will be added here once available.
 
 ### Tutorials
 
-1. https://regexone.com
-1. https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/
+1. [regexone.com](https://regexone.com)
+1. [freecodecamp.org](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/)
 
 ### Videos
 
@@ -28,5 +28,5 @@ Link to the video recording will be added here once available.
 
 ### Regex Tester
 
-1. https://regexr.com
-1. https://regex101.com
+1. [regexr.com](https://regexr.com)
+1. [regex101.com](https://regex101.com)
